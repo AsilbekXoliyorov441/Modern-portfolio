@@ -155,33 +155,38 @@ export const projects = [
 export const testimonials = [
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+            "I had studied HTML , CSS , SASS ,Bootstrap , Tailwind , DOM at Najot Talim from September to February in 2023-2024",
+        name: "Najot Talim",
+        title: "Front-end(React , Next)",
+        img:"/najot.png",
     },
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+            "After Najot Talim , I continued learning JavaScript , ReactJs , Redux , TypeScript and NextJs at Meta IT Academy which is established by Abdulaziz",
+        name: "Meta IT Academy",
+        title: "Front-end(React , Next)",
+        img:"/meta.jpg"
     },
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+            "Finishing Front-end course , I attended free courses which is for someone finished frontend course in order to improve skills until advanced level at Faroby IT academy and lessons had been teached by Dilshod Nurullayev",
+        name: "Faroby IT academy",
+        title: "Improve Front-end skills",
+        img:"/faroby.jpg",
     },
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+            "I have been working at IT innovation company for 4 months.During this time have finished 2 project such as Logistics and Get-Pin startup projects.Mainly, I have been working Get-pin project.It has been made two version to open mobile and desktop",
+        name: "Getter IT innovation company",
+        title: "Improve my skilles, and learning extra technology such as Aceternity ui and others",
+        img:"/getter.jpg",
     },
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+            "Additional ,  In my free time I am working at my university's startup project named ReCoin.Mainly making admin panel now.I am membership of TSUE IT CLUB ",
+        name: "TSUE IT CLUB",
+        title: "Improving my skills",
+        img:"/tsue-IT.jpg"
     },
 ];
 
