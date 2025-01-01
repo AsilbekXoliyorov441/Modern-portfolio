@@ -71,6 +71,14 @@ export const gridItems = [
 
 export const projects = [
   {
+    id: 0,
+    title: "Motion-Shoes-Ecommerce",
+    des: "The eccomerce project was done to improve working with framer-motion technology.",
+    img: "/project-0.png",
+    iconLists: ["/re.svg", "/tail.svg", "/fm.svg"],
+    link: "https://motion-shoes-ecommerce.vercel.app/",
+  },
+  {
     id: 1,
     title: "Store Ecommerce Filter",
     des: "The eccomerce project was done to improve working with filters and api in reactSJs.",
@@ -99,7 +107,7 @@ export const projects = [
     title: "Get-Pin-AdminPanel",
     des: "The getpin admenPanel part built to manage the get pin project",
     img: "/project-4.png",
-    iconLists: ["/re.svg", "/sass.svg"],
+    iconLists: ["/re.svg"],
     link: "https://get-pin-admin.vercel.app/admin/advertisement",
   },
   {
